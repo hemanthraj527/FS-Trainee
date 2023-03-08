@@ -13,7 +13,7 @@ Installing NPM modules on both Frontend and Backend
 Execute these commands from the both frontend and backend directory
 
 ```
-npm i
+npm install
 ```
 
 ### Running the app
